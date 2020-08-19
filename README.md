@@ -10,7 +10,7 @@ OS X & Linux & Windows:
 3. Build the project
 
 ## Video demonstration
-https://youtu.be/feNJ9aBW9PY
+[![video link](https://img.youtube.com/vi/feNJ9aBW9PY/0.jpg)](https://www.youtube.com/watch?v=feNJ9aBW9PY)
 
 ## Usage
 You should reach the home page. Click on the link in the middle to navigate to the Users page /User
